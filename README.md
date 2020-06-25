@@ -3,4 +3,4 @@ You'll find in this repository a jupyter notebook in which I implemented logisti
 
 # The Dataset
 
-I used Twitter dataset to do sentiment analysis. The dataset is composed of more than 14000 tweets. Given tweets about six US airlines, the task is to predict whether a tweet contains positive, negative, or neutral sentiment about the airline. The dataset can be found here (https://raw.githubusercontent.com/kolaveridi/kaggle-Twitter-US-Airline-Sentiment-/master/Tweets.csv).
+I used Twitter dataset to do sentiment analysis. The dataset is composed of more than 14000 tweets. Given tweets about six US airlines, the task is to predict whether a tweet contains positive, negative, or neutral sentiment about the airline. The dataset can be downloaded here (https://raw.githubusercontent.com/kolaveridi/kaggle-Twitter-US-Airline-Sentiment-/master/Tweets.csv).
